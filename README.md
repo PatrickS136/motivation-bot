@@ -1,6 +1,6 @@
 # Motivation BOT
 
-A motivation bot using Python (Selenium) and ZenQuotes API
+A Twitter motivation bot using Python (Selenium) and ZenQuotes API
 
 <h2>Example</h2>
 <hr>
